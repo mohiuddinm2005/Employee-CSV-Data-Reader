@@ -1,0 +1,6 @@
+mustafa,t,mohiuddin,M,25,25000
+chris,m,clark,M,32,60000
+samantha,n,goble,F,29,30000
+mohammed,h,farooq,M,41,90000
+melissa,m,mcnulty,F,27,30000
+kathleen,h,hughes,F,45,90200
