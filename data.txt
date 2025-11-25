@@ -10,4 +10,3 @@ kevin,l,brooks,M,38,75000
 alisha,k,peters,F,31,41000
 derek,t,ramsey,M,44,87000
 rebecca,m,shaw,F,28,39000
-
