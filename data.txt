@@ -4,3 +4,10 @@ samantha,n,goble,F,29,30000
 mohammed,h,farooq,M,41,90000
 melissa,m,mcnulty,F,27,30000
 kathleen,h,hughes,F,45,90200
+jordan,p,ellis,M,33,48000
+natalie,r,sutton,F,26,52000
+kevin,l,brooks,M,38,75000
+alisha,k,peters,F,31,41000
+derek,t,ramsey,M,44,87000
+rebecca,m,shaw,F,28,39000
+
